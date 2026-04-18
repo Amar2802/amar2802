@@ -71,5 +71,5 @@ CheckOut the Other Repository for other Works and Projects
 ---
 
 ## ⚡ Fun Fact
-I love building real-world projects and turning ideas into working applications 🚀
+I love building real-world projects and turning ideas into working applications 🚀||
 Love to watch Cricket
