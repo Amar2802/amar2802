@@ -54,6 +54,8 @@
 - Helps with course details
 - Admission guidance
 
+
+CheckOut the Other Repository for other Works and Projects
 ---
 
 ## 📊 GitHub Stats
