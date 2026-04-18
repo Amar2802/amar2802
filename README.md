@@ -67,7 +67,7 @@ CheckOut the Other Repository for other Works and Projects
 - 📧 Email: your-email@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/your-profile
 - 🌐 Portfolio:https://portfolio-beta-pied-ojrh8lh9vt.vercel.app/
-
+- <img width="140" height="140" alt="FollowMeInstagramGIF" src="https://github.com/user-attachments/assets/a8b34d33-2425-4391-872c-60287057de98" />https://www.instagram.com/amar00_07/
 ---
 
 ## ⚡ Fun Fact
