@@ -38,7 +38,7 @@
 - Git & GitHub
 - VS Code
 - Postman
-- -Docker
+- Docker
 ---
 
 ## 📂 Projects
