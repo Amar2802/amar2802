@@ -54,7 +54,7 @@
 - Code editor (Monaco) for solving coding rounds in-browser
 - Personalized dashboard with weak topic detection, roadmap, and analytics
 - Bookmark questions, review mistakes, and track history over time
-- Google OAuth + JWT authentication
+- JWT authentication
 
 
 ### 🛒 E-commerce Website
