@@ -39,6 +39,8 @@
 - VS Code
 - Postman
 - Docker
+- Render
+- Vercel
 ---
 
 ## 📂 Projects
