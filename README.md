@@ -45,6 +45,18 @@
 
 ## 📂 Projects
 
+##🧠 SkillNexa — AI Interview Preparation Platform
+**Full-stack MERN app for structured interview prep**
+
+- Practice from a curated question bank across DSA, Aptitude, Core CS, and HR
+- Take timed mock tests with auto-scoring and accuracy tracking
+- AI Interviewer powered by OpenAI for real-time feedback on your answers
+- Code editor (Monaco) for solving coding rounds in-browser
+- Personalized dashboard with weak topic detection, roadmap, and analytics
+- Bookmark questions, review mistakes, and track history over time
+- Google OAuth + JWT authentication
+
+
 ### 🛒 E-commerce Website
 - User authentication
 - Product listing
