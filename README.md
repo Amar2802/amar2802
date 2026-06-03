@@ -57,6 +57,7 @@
 - Personalized dashboard with weak topic detection, roadmap, and analytics
 - Bookmark questions, review mistakes, and track history over time
 - JWT authentication
+- GoogleAuth
 
 
 ### 🛒 E-commerce Website
