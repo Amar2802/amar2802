@@ -1,7 +1,7 @@
 # Hi 👋, I'm Amar Nath Yadav
 
 🎓 B.Tech Student  
-💻 Passionate Web Developer (MERN Stack)  
+💻 Passionate Full Stack Developer (MERN Stack)  
 🌱 Currently learning: Advanced React & Backend Development  
 📍 India  
 
@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Full MERN Stack Applications**
 - 🌐 Building an **E-commerce website for digital services**
 - ⚡ Interested in **Web Development, AI Chatbots & Automation**
-- 🎯 Goal: Become a **Full Stack Developer**
+- 🎯 Goal: Become a **Software Developer**
 
 ---
 
