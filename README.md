@@ -30,6 +30,8 @@
 ### 🔧 Backend
 - Node.js
 - Express.js
+- REST API
+- FastAPI
 
 ### 🗄️ Database
 - MongoDB (Atlas & Compass)
