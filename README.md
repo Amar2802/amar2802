@@ -154,7 +154,7 @@ Gained practical experience in web development and working with real-world appli
 
 ### 🥈 2nd Rank — College Ideathon
 
-**Greater Noida Institute of Technology**
+**Greater Noida College**
 
 Pitched a technology-driven solution to a real-world problem as part of a team.
 
