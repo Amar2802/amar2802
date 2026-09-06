@@ -172,12 +172,6 @@ Pitched a technology-driven solution to a real-world problem as part of a team.
 
 ---
 
-# 📊 GitHub Stats
-
-![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amar2802\&show_icons=true\&theme=radical)
-
----
-
 # 🤝 Connect With Me
 
 📧 **Email:** [amar2822@outlook.com](mailto:amar2822@outlook.com)
@@ -192,4 +186,4 @@ Pitched a technology-driven solution to a real-world problem as part of a team.
 
 # ⚡ Fun Fact
 
-I love building real-world projects, exploring AI technologies, and watching cricket. 🏏🚀
+I love building real-world projects, Learning and exploring AI technologies, and watching cricket. 🏏🚀
