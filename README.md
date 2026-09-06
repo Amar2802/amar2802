@@ -105,7 +105,7 @@ A full-stack AI-powered interview preparation platform designed to help students
 * 🔖 Bookmark questions and review mistakes
 * 🚀 Deployed using Vercel and Render
 
-🔗 **Live Demo:** Skillnexa.me
+🔗 **Live Demo:** www.Skillnexa.me
 
 ---
 
