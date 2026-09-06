@@ -1,92 +1,195 @@
 # Hi 👋, I'm Amar Nath Yadav
 
-🎓 B.Tech Student  
-💻 Passionate Full Stack Developer (MERN Stack)  
-🌱 Currently learning: Advanced React & Backend Development  
-📍 India  
+### AI / Python Developer | GenAI & LLM Applications | Full Stack Development
+
+🎓 **B.Tech Computer Science & Engineering (2023–2027)**
+🤖 Building **AI-powered applications with Python & LLM APIs**
+🌐 Developing full-stack applications using **React, Node.js & MongoDB**
+📍 India
 
 ---
 
-## 🔥 About Me
-- 🔭 I’m currently working on **Full MERN Stack Applications**
-- 🌐 Building an **E-commerce website for digital services**
-- ⚡ Interested in **Web Development, AI Chatbots & Automation**
-- 🎯 Goal: Become a **Software Developer**
+## 👨‍💻 About Me
+
+I'm a B.Tech CSE student passionate about building **AI-powered applications and real-world software products**.
+
+* 🔭 Currently building **AI + Full Stack applications**
+* 🤖 Working with **LLM APIs, Generative AI and NLP**
+* 🧠 Exploring **RAG, embeddings, vector databases and AI agents**
+* 🌐 Comfortable working across the **Python and MERN stack**
+* 🚀 Interested in turning AI concepts into **usable products**
+* 🎯 Seeking opportunities as an **AI / Python Developer Intern**
+
+I enjoy building practical projects where AI features are integrated into complete applications rather than remaining as standalone experiments.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- JavaScript
-- C / C++
-- HTML / CSS
-- Python
+### 🤖 AI / Machine Learning
 
-### 🚀 Frontend
-- React.js
-- Bootstrap
+* LLM API Integration
+* Generative AI
+* Prompt Engineering
+* Response Parsing
+* NLP
+* scikit-learn
+* RAG *(Learning)*
+* Embeddings & Vector Databases *(Learning)*
+* AI Agents *(Learning)*
 
-### 🔧 Backend
-- Node.js
-- Express.js
-- REST API
-- FastAPI
+### 🐍 Python
 
-### 🗄️ Database
-- MongoDB (Atlas & Compass)
+* Python 3
+* NumPy
+* Pandas
+* REST API Integration
+* Scripting
+* virtualenv
 
-### ⚙️ Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Docker
-- Render
-- Vercel
----
+### 💻 Programming Languages
 
-## 📂 Projects
+* Python
+* JavaScript (ES6+)
+* C
+* C++
+* HTML5
+* CSS3
 
-##🧠 SkillNexa — AI Interview Preparation Platform
-**Full-stack MERN app for structured interview prep**
+### 🌐 Web Development
 
-- Practice from a curated question bank across DSA, Aptitude, Core CS, and HR
-- Take timed mock tests with auto-scoring and accuracy tracking
-- AI Interviewer powered by OpenAI for real-time feedback on your answers
-- Code editor (Monaco) for solving coding rounds in-browser
-- Personalized dashboard with weak topic detection, roadmap, and analytics
-- Bookmark questions, review mistakes, and track history over time
-- JWT authentication
-- GoogleAuth
+* React.js
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Context API
+* Bootstrap
 
+### 🗄️ Databases
 
-### 🛒 E-commerce Website
-- User authentication
-- Product listing
-- Admin panel
-- Payment integration (planned)
+* MongoDB
+* MongoDB Atlas
+* Mongoose
 
-### 🤖 College Chatbot (AI Project)
-- Answers FAQs
-- Helps with course details
-- Admission guidance
+### ⚙️ Tools & Deployment
 
-
-CheckOut the Other Repository for other Works and Projects
----
-
-## 📊 GitHub Stats
-![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amar2802&show_icons=true&theme=radical)
+* Git & GitHub
+* Postman
+* VS Code
+* Docker *(Learning)*
+* Vercel
+* Render
 
 ---
 
-## 🔗 Connect with Me
-- 📧 Email: amar2822@outlook.com
-- 💼 LinkedIn: https://linkedin.com/in/amarnath28
-- 🌐 Portfolio:https://amarnath-yadav.vercel.app/
-- 😎Instagram:https://www.instagram.com/amar00_07/
+# 🚀 Featured Projects
+
+## 🧠 SkillNexa — AI Interview Preparation Platform
+
+**Python · LLM API · React.js · Node.js · MongoDB**
+
+A full-stack AI-powered interview preparation platform designed to help students practice and improve their interview performance.
+
+### ✨ Key Features
+
+* 🤖 AI-powered answer evaluation using an LLM API
+* 📊 Generates scores and targeted improvement suggestions
+* 🧠 Prompt templates for structured and consistent AI responses
+* 📝 Mock tests covering multiple interview topics
+* 💻 Coding rounds with an in-browser code editor
+* 🔐 JWT authentication
+* 🔑 Google Authentication
+* 📈 Progress tracking and personalized dashboard
+* 📚 Question bank covering DSA, Aptitude, Core CS and HR
+* 🔖 Bookmark questions and review mistakes
+* 🚀 Deployed using Vercel and Render
+
+🔗 **Live Demo:** Skillnexa.me
+
 ---
 
-## ⚡ Fun Fact
-I love building real-world projects and turning ideas into working applications 🚀||
-Love to watch Cricket
+## 🤖 College FAQ Chatbot
+
+**Python · Rule-Based NLP**
+
+An automated Q&A assistant designed to handle common student queries.
+
+### ✨ Key Features
+
+* 🎯 Handles admission and course-related questions
+* 🧠 Intent matching using a curated knowledge base
+* 🔤 Keyword normalization
+* 🔄 Fallback handling for unknown queries
+* ⚡ Automated responses to frequently asked questions
+
+---
+
+## 🛒 E-Commerce Platform
+
+**React.js · Node.js · Express.js · MongoDB**
+
+A full-stack e-commerce application focused on digital services.
+
+### ✨ Key Features
+
+* 🔐 User authentication
+* 📦 Product listing
+* 👨‍💼 Role-based admin panel
+* 🔧 CRUD operations through REST APIs
+* 🗄️ MongoDB database integration
+* 💳 Payment integration *(Planned)*
+
+---
+
+# 💼 Experience
+
+### Web Development Intern — Codec Technologies
+
+Gained practical experience in web development and working with real-world application development workflows.
+
+---
+
+# 🏆 Achievement
+
+### 🥈 2nd Rank — College Ideathon
+
+**Greater Noida Institute of Technology**
+
+Pitched a technology-driven solution to a real-world problem as part of a team.
+
+---
+
+# 🎯 Areas of Interest
+
+* Generative AI & LLM Applications
+* AI Agents
+* AI Chatbots
+* Retrieval-Augmented Generation (RAG)
+* Applied Machine Learning
+* Python Development
+* Full Stack Development
+
+---
+
+# 📊 GitHub Stats
+
+![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amar2802\&show_icons=true\&theme=radical)
+
+---
+
+# 🤝 Connect With Me
+
+📧 **Email:** [amar2822@outlook.com](mailto:amar2822@outlook.com)
+
+💼 **LinkedIn:** [linkedin.com/in/amarnath28](https://linkedin.com/in/amarnath28)
+
+💻 **GitHub:** [github.com/amar2802](https://github.com/amar2802)
+
+🌐 **Portfolio:** [amarnath-yadav.vercel.app](https://amarnath-yadav.vercel.app/)
+
+---
+
+# ⚡ Fun Fact
+
+I love building real-world projects, exploring AI technologies, and watching cricket. 🏏🚀
